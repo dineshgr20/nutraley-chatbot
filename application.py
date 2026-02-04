@@ -22,7 +22,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-app = FastAPI(title="Nutraley AI Chatbot - No Vector")
+app = FastAPI(title="Nutraley AI Chatbot")
 
 app.add_middleware(
     CORSMiddleware,
@@ -197,7 +197,7 @@ async def root():
     <!DOCTYPE html>
     <html>
     <head>
-        <title>Nutraley AI Assistant (No Vector)</title>
+        <title>Nutraley AI Assistant</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
         <style>
@@ -349,6 +349,36 @@ async def root():
                 box-shadow: 0 1px 3px rgba(0,0,0,0.05);
             }
 
+            .feedback-buttons {
+                display: flex;
+                gap: 8px;
+                margin-top: 8px;
+                opacity: 0.6;
+                transition: opacity 0.2s;
+            }
+
+            .feedback-buttons:hover {
+                opacity: 1;
+            }
+
+            .feedback-btn {
+                background: none;
+                border: none;
+                font-size: 16px;
+                cursor: pointer;
+                padding: 4px 8px;
+                border-radius: 4px;
+                transition: background 0.2s;
+            }
+
+            .feedback-btn:hover {
+                background: #f3f4f6;
+            }
+
+            .feedback-btn.selected {
+                opacity: 1;
+            }
+
             .typing-indicator {
                 display: flex;
                 gap: 6px;
@@ -479,8 +509,8 @@ async def root():
             <div class="header">
                 <div class="header-icon">🌿</div>
                 <div class="header-text">
-                    <h1>Nutraley AI Assistant (No Vector)</h1>
-                    <p>Full menu approach - All products always in context</p>
+                    <h1>Nutraley AI Assistant</h1>
+                    <p>Your guide to natural, organic products</p>
                 </div>
             </div>
 
@@ -489,6 +519,7 @@ async def root():
                 <div class="quick-prompt" onclick="useQuickPrompt('I need something heart-healthy')">❤️ Heart Health</div>
                 <div class="quick-prompt" onclick="useQuickPrompt('Best oil for deep frying?')">🍳 Cooking Tips</div>
                 <div class="quick-prompt" onclick="useQuickPrompt('Show me gluten-free options')">🌾 Gluten-Free</div>
+                <div class="quick-prompt" onclick="useQuickPrompt('Track my order')">📦 Track Order</div>
             </div>
 
             <div class="messages" id="messages"></div>
@@ -563,19 +594,51 @@ async def root():
                 avatar.className = `avatar ${role}`;
                 avatar.textContent = role === 'user' ? '👤' : '🤖';
 
+                const messageContainer = document.createElement('div');
+
                 const message = document.createElement('div');
                 message.className = `message ${role}`;
                 message.style.whiteSpace = 'pre-wrap';
                 message.textContent = content;
 
+                messageContainer.appendChild(message);
+
+                // Add feedback buttons for assistant messages
+                if (role === 'assistant') {
+                    const feedbackDiv = document.createElement('div');
+                    feedbackDiv.className = 'feedback-buttons';
+
+                    const thumbsUp = document.createElement('button');
+                    thumbsUp.className = 'feedback-btn';
+                    thumbsUp.innerHTML = '👍';
+                    thumbsUp.title = 'Helpful';
+                    thumbsUp.onclick = function() {
+                        this.classList.toggle('selected');
+                        thumbsDown.classList.remove('selected');
+                    };
+
+                    const thumbsDown = document.createElement('button');
+                    thumbsDown.className = 'feedback-btn';
+                    thumbsDown.innerHTML = '👎';
+                    thumbsDown.title = 'Not helpful';
+                    thumbsDown.onclick = function() {
+                        this.classList.toggle('selected');
+                        thumbsUp.classList.remove('selected');
+                    };
+
+                    feedbackDiv.appendChild(thumbsUp);
+                    feedbackDiv.appendChild(thumbsDown);
+                    messageContainer.appendChild(feedbackDiv);
+                }
+
                 wrapper.appendChild(avatar);
-                wrapper.appendChild(message);
+                wrapper.appendChild(messageContainer);
                 messagesDiv.appendChild(wrapper);
                 messagesDiv.scrollTop = messagesDiv.scrollHeight;
             }
 
             // Welcome message
-            addMessage('assistant', 'Welcome to Nutraley (No Vector Version)! I have the complete product catalog in my context. I can help you with:\\n\\n• Discovering our natural, organic products\\n• Tracking your order status\\n\\nWhat would you like to know?');
+            addMessage('assistant', 'Welcome to Nutraley! I can help you with:\\n\\n• Discovering our natural, organic products\\n• Tracking your order status\\n\\nWhat would you like to know?');
         </script>
     </body>
     </html>
