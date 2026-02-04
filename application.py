@@ -326,7 +326,7 @@ async def root():
             }
 
             .message {
-                max-width: 70%;
+                max-width: 85%;
                 padding: 14px 18px;
                 border-radius: 16px;
                 word-wrap: break-word;
@@ -347,36 +347,6 @@ async def root():
                 border: 1px solid #e5e7eb;
                 border-bottom-left-radius: 4px;
                 box-shadow: 0 1px 3px rgba(0,0,0,0.05);
-            }
-
-            .feedback-buttons {
-                display: flex;
-                gap: 8px;
-                margin-top: 8px;
-                opacity: 0.6;
-                transition: opacity 0.2s;
-            }
-
-            .feedback-buttons:hover {
-                opacity: 1;
-            }
-
-            .feedback-btn {
-                background: none;
-                border: none;
-                font-size: 16px;
-                cursor: pointer;
-                padding: 4px 8px;
-                border-radius: 4px;
-                transition: background 0.2s;
-            }
-
-            .feedback-btn:hover {
-                background: #f3f4f6;
-            }
-
-            .feedback-btn.selected {
-                opacity: 1;
             }
 
             .typing-indicator {
@@ -519,7 +489,6 @@ async def root():
                 <div class="quick-prompt" onclick="useQuickPrompt('I need something heart-healthy')">❤️ Heart Health</div>
                 <div class="quick-prompt" onclick="useQuickPrompt('Best oil for deep frying?')">🍳 Cooking Tips</div>
                 <div class="quick-prompt" onclick="useQuickPrompt('Show me gluten-free options')">🌾 Gluten-Free</div>
-                <div class="quick-prompt" onclick="useQuickPrompt('Track my order')">📦 Track Order</div>
             </div>
 
             <div class="messages" id="messages"></div>
@@ -544,7 +513,6 @@ async def root():
             function useQuickPrompt(prompt) {
                 input.value = prompt;
                 sendMessage();
-                quickPromptsDiv.style.display = 'none';
             }
 
             async function sendMessage() {
@@ -602,35 +570,6 @@ async def root():
                 message.textContent = content;
 
                 messageContainer.appendChild(message);
-
-                // Add feedback buttons for assistant messages
-                if (role === 'assistant') {
-                    const feedbackDiv = document.createElement('div');
-                    feedbackDiv.className = 'feedback-buttons';
-
-                    const thumbsUp = document.createElement('button');
-                    thumbsUp.className = 'feedback-btn';
-                    thumbsUp.innerHTML = '👍';
-                    thumbsUp.title = 'Helpful';
-                    thumbsUp.onclick = function() {
-                        this.classList.toggle('selected');
-                        thumbsDown.classList.remove('selected');
-                    };
-
-                    const thumbsDown = document.createElement('button');
-                    thumbsDown.className = 'feedback-btn';
-                    thumbsDown.innerHTML = '👎';
-                    thumbsDown.title = 'Not helpful';
-                    thumbsDown.onclick = function() {
-                        this.classList.toggle('selected');
-                        thumbsUp.classList.remove('selected');
-                    };
-
-                    feedbackDiv.appendChild(thumbsUp);
-                    feedbackDiv.appendChild(thumbsDown);
-                    messageContainer.appendChild(feedbackDiv);
-                }
-
                 wrapper.appendChild(avatar);
                 wrapper.appendChild(messageContainer);
                 messagesDiv.appendChild(wrapper);
@@ -650,4 +589,4 @@ async def health():
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run("app_no_vector:app", host="0.0.0.0", port=8001, reload=True)
+    uvicorn.run("application:app", host="0.0.0.0", port=8001, reload=True)
