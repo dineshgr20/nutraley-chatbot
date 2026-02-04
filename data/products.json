@@ -1,0 +1,887 @@
+[
+  {
+    "name": "Cold Pressed Sesame Oil",
+    "category": "Cold-Pressed Oils",
+    "subcategory": null,
+    "variants": [
+      {
+        "size": "1L",
+        "price": 12.25
+      },
+      {
+        "size": "2L",
+        "price": 23.0
+      },
+      {
+        "size": "5L",
+        "price": 49.99
+      }
+    ],
+    "description": "Nutraley Cold Pressed Sesame Oil - A Pure & Natural Wellness Oil extracted from finest sesame seeds using age-old wooden cold press method. Known as \"Nallennai\" in Tamil. Sesame oil is a staple in South Indian kitchens and Ayurvedic practices for its nourishing benefits.",
+    "key_features": [
+      "Cold Pressed Extraction: Preserves natural nutrients, antioxidants, and flavor",
+      "Nutrient-Rich: Packed with healthy fats, Vitamin E, and minerals",
+      "Heart-Healthy: Supports good cholesterol and cardiovascular health",
+      "Dual Purpose: Perfect for cooking and traditional wellness practices"
+    ],
+    "ingredients": "100% Pure Cold Pressed Sesame Seeds",
+    "serving_ideas": [
+      "Use in traditional cooking for curries, gravies, and stir-fries",
+      "Ideal for South Indian dishes like idli podi oil mix or pickles",
+      "Drizzle over salads for nutty, flavorful twist",
+      "Massage oil for hair and skin nourishment in Ayurvedic care"
+    ],
+    "alternative_names": [
+      "Nallennai"
+    ]
+  },
+  {
+    "name": "Cold Pressed Peanut Oil",
+    "category": "Cold-Pressed Oils",
+    "subcategory": null,
+    "variants": [
+      {
+        "size": "1L",
+        "price": 11.99
+      },
+      {
+        "size": "2L",
+        "price": 22.99
+      },
+      {
+        "size": "5L",
+        "price": 45.0
+      }
+    ],
+    "description": "Nutraley Cold Pressed Peanut Oil - A Pure & Natural Cooking Oil extracted using the age-old wooden chekku (ghani) method to retain its natural nutrients and flavor. Made from premium quality peanuts, this oil is chemical-free, unrefined, and packed with heart-healthy fats and antioxidants. Its light aroma and nutty taste make it a wholesome choice for everyday cooking.",
+    "key_features": [
+      "Cold Pressed Extraction: Preserves natural flavor, aroma, and nutrients",
+      "Heart-Healthy: Rich in monounsaturated fats that support heart wellness",
+      "Chemical-Free: 100% pure, unrefined, and free from additives",
+      "Versatile Use: Ideal for sautéing, frying, curries, and salad dressings"
+    ],
+    "ingredients": "100% Pure Cold Pressed Peanut Oil",
+    "serving_ideas": [
+      "Use for traditional Indian cooking - curries, gravies, and stir-fries",
+      "Fry snacks like pakoras, vadas, or pooris for an authentic taste",
+      "Add to salad dressings or marinades for a nutty flavor boost",
+      "Perfect for everyday cooking with a healthy twist"
+    ],
+    "alternative_names": []
+  },
+  {
+    "name": "Cold Pressed Sunflower Oil",
+    "category": "Cold-Pressed Oils",
+    "subcategory": null,
+    "variants": [
+      {
+        "size": "2L",
+        "price": 16.25
+      }
+    ],
+    "description": "Nutraley Cold Pressed Sunflower Oil - Pure, Natural & Heart-Healthy (2L). Experience the purity of nature with Nutraley Cold Pressed Sunflower Oil, extracted using the traditional wooden-press method to preserve its natural nutrients and flavor. Rich in Vitamin E and healthy fats, this light and versatile oil is perfect for everyday cooking while supporting heart health and overall wellness. Free from chemicals and additives, it's the natural choice for a healthier lifestyle.",
+    "key_features": [
+      "Cold Pressed Goodness: Retains natural nutrients, aroma, and flavor",
+      "Rich in Vitamin E: Supports skin health and immunity",
+      "Heart-Healthy Fats: High in unsaturated fats that promote wellness",
+      "Pure & Natural: Free from preservatives, chemicals, and refining"
+    ],
+    "ingredients": "100% Pure Cold Pressed Sunflower Seeds",
+    "serving_ideas": [
+      "Ideal for sautéing, stir-frying, and everyday cooking",
+      "Use in salad dressings and marinades for a light, nutty flavor",
+      "Perfect for baking healthy breads, cakes, and snacks",
+      "Suitable for traditional Indian cooking as well as modern recipes"
+    ],
+    "alternative_names": []
+  },
+  {
+    "name": "Foxtail Millet Whole",
+    "category": "Millets",
+    "subcategory": "Whole Grain Millets",
+    "variants": [
+      {
+        "size": "2 LB",
+        "price": 5.99
+      }
+    ],
+    "description": "Nutraley Foxtail Millet Whole - A Wholesome Ancient Supergrain (2lb). Discover the natural goodness of Nutraley Foxtail Millet Whole, a time-honored supergrain valued for its rich nutrition and versatility. Known as Thinai in Tamil, Foxtail Millet is naturally gluten-free, high in dietary fiber, and a great source of plant-based protein. With its light texture and mild flavor, it is an excellent choice for healthy, everyday meals.",
+    "key_features": [
+      "Nutrient-Rich: Packed with fiber, protein, iron, and essential minerals",
+      "Low Glycemic Index: Helps maintain steady energy levels",
+      "Gluten-Free: Perfect for gluten-sensitive and health-conscious diets",
+      "Versatile Grain: Works well in both traditional and modern recipes"
+    ],
+    "ingredients": "100% Whole Foxtail Millet",
+    "serving_ideas": [
+      "Use as a healthy alternative to rice with curries, dals, or stir-fries",
+      "Prepare traditional Thinai upma or porridge for a wholesome breakfast",
+      "Mix into salads or soups for added nutrition and texture",
+      "Grind into flour for rotis, dosas, or baked recipes"
+    ],
+    "alternative_names": [
+      "Thinai"
+    ]
+  },
+  {
+    "name": "Pearl Millet Whole",
+    "category": "Millets",
+    "subcategory": "Whole Grain Millets",
+    "variants": [
+      {
+        "size": "2 LB",
+        "price": 5.99
+      }
+    ],
+    "description": "Nutraley Pearl Millet Whole - A Wholesome Supergrain for Healthy Living (2lb). Bring home the natural power of Nutraley Pearl Millet Whole, a traditional supergrain cherished for its rich nutrition and earthy flavor. Known as Bajra in Hindi and Kambu in Tamil, Pearl Millet is naturally gluten-free, high in fiber, and packed with essential minerals that support energy and overall wellness. Perfect for everyday cooking, it adds a hearty touch to your meals while promoting a balanced lifestyle.",
+    "key_features": [
+      "Rich in Nutrients: Excellent source of iron, magnesium, and protein",
+      "High Fiber: Supports digestion and helps maintain satiety",
+      "Gluten-Free: Great choice for gluten-sensitive and health-focused diets",
+      "Versatile Grain: Ideal for both traditional and modern recipes"
+    ],
+    "ingredients": "100% Whole Pearl Millet",
+    "serving_ideas": [
+      "Prepare traditional bajra rotis or flatbreads for a wholesome meal",
+      "Use as a rice substitute with curries, dals, or stir-fries",
+      "Make nutrient-rich porridge, upma, or khichdi",
+      "Add to soups, stews, or multigrain mixes for extra nutrition"
+    ],
+    "alternative_names": [
+      "Bajra",
+      "Kambu"
+    ]
+  },
+  {
+    "name": "Barnyard Millet Roasted",
+    "category": "Millets",
+    "subcategory": "Whole Grain Millets",
+    "variants": [
+      {
+        "size": "2 LB",
+        "price": 5.99
+      }
+    ],
+    "description": "Nutraley Barnyard Millet Roasted - A Wholesome Gluten-Free Supergrain (2lb). Experience the natural goodness of Nutraley Barnyard Millet Roasted, a nutrient-rich supergrain crafted for modern healthy living. Known as Kuthiraivali in Tamil, this ancient millet is naturally gluten-free, low in carbohydrates, and packed with essential nutrients. Lightly roasted for enhanced flavor and easy cooking, it is a versatile grain that makes your meals both delicious and nourishing.",
+    "key_features": [
+      "Nutrient Dense: Rich in dietary fiber, protein, calcium, and phosphorus",
+      "Low Carbohydrates: Provides slow-releasing energy for balanced diets",
+      "Gluten-Free: Perfect for gluten-sensitive and health-conscious lifestyles",
+      "Lightly Roasted: Improves taste, aroma, and cooking convenience"
+    ],
+    "ingredients": "100% Pure Roasted Barnyard Millet",
+    "serving_ideas": [
+      "Cook as a healthy rice replacement with curries, gravies, or stir-fries",
+      "Use in dosa, idli, or upma batter for a wholesome South Indian twist",
+      "Make a hearty porridge or kheer for breakfast or dessert",
+      "Add to soups and stews for extra nutrition and texture"
+    ],
+    "alternative_names": [
+      "Kuthiraivali"
+    ]
+  },
+  {
+    "name": "Sorghum Millet Whole",
+    "category": "Millets",
+    "subcategory": "Whole Grain Millets",
+    "variants": [
+      {
+        "size": "2 LB",
+        "price": 4.99
+      }
+    ],
+    "description": "Nutraley Sorghum Millet Whole - A Wholesome Ancient Grain (2lb). Discover the natural goodness of Nutraley Sorghum Millet Whole, a nutrient-rich ancient grain known as Jowar in Hindi and Cholam in Tamil. Naturally gluten-free and packed with fiber, protein, and essential minerals, Sorghum is a versatile grain that supports a healthy lifestyle. With its mild flavor and hearty texture, it is perfect for both traditional and modern recipes.",
+    "key_features": [
+      "Nutrient-Dense: Rich in fiber, protein, iron, and antioxidants",
+      "Heart-Healthy Grain: Supports digestion and overall wellness",
+      "Gluten-Free: Suitable for gluten-sensitive and health-conscious diets",
+      "Versatile Use: Ideal for both cooking and flour preparation"
+    ],
+    "ingredients": "100% Whole Sorghum (Jowar)",
+    "serving_ideas": [
+      "Cook as a healthy rice substitute for curries, dals, or stir-fries",
+      "Prepare jowar upma, porridge, or khichdi for wholesome meals",
+      "Grind into flour for rotis, dosas, or multigrain mixes",
+      "Add to soups, salads, or stews for added nutrition"
+    ],
+    "alternative_names": [
+      "Jowar",
+      "Cholam"
+    ]
+  },
+  {
+    "name": "Kodo Millets Roasted",
+    "category": "Millets",
+    "subcategory": "Whole Grain Millets",
+    "variants": [
+      {
+        "size": "2 LB",
+        "price": 5.99
+      }
+    ],
+    "description": "Nutraley Kodo Millets Roasted - A Wholesome Gluten-Free Supergrain (2lb). Discover the nourishing goodness of Nutraley Kodo Millets Roasted, a traditional supergrain valued for its light texture and high nutrition. Known as Varagu in Tamil, Kodo Millet is naturally gluten-free, rich in dietary fiber, and low in glycemic index, making it an ideal choice for a balanced lifestyle. Lightly roasted to enhance flavor and cooking convenience, it is a healthy substitute for rice and a versatile ingredient for everyday meals.",
+    "key_features": [
+      "Nutrient-Rich: High in fiber, protein, and essential minerals",
+      "Low Glycemic Index: Supports steady energy and balanced diets",
+      "Gluten-Free: Perfect for gluten-sensitive and health-focused lifestyles",
+      "Lightly Roasted: Enhances taste, aroma, and ease of cooking"
+    ],
+    "ingredients": "100% Pure Roasted Kodo Millet",
+    "serving_ideas": [
+      "Cook as a wholesome alternative to rice with curries or stir-fries",
+      "Prepare upma, dosa, or idli batter for healthy breakfast options",
+      "Use in porridge, pulao, or khichdi for nourishing meals",
+      "Add to soups and salads for extra nutrition and texture"
+    ],
+    "alternative_names": [
+      "Varagu"
+    ]
+  },
+  {
+    "name": "Little Millet Rice (Samai Arisi)",
+    "category": "Millets",
+    "subcategory": "Whole Grain Millets",
+    "variants": [
+      {
+        "size": "2 LB",
+        "price": 5.99
+      }
+    ],
+    "description": "Nutraley Little Millet Rice (Samai Arisi) - A Wholesome Gluten-Free Grain (2lb). Discover the natural goodness of Nutraley Little Millet Rice, also known as Samai Arisi in Tamil - a light, nutritious, and gluten-free grain that has been part of traditional Indian diets for centuries. Packed with fiber, protein, and essential minerals, Little Millet is an excellent alternative to white rice, making your meals both healthy and delicious.",
+    "key_features": [
+      "Nutrient-Rich: Good source of fiber, protein, and essential minerals",
+      "Low Glycemic Index: Helps maintain steady energy and supports weight management",
+      "Gluten-Free: Ideal for gluten-sensitive and health-conscious diets",
+      "Versatile Grain: Suitable for everyday meals and traditional recipes"
+    ],
+    "ingredients": "100% Pure Little Millet (Samai Arisi)",
+    "serving_ideas": [
+      "Use as a rice substitute for curries, dals, or stir-fries",
+      "Prepare Samai upma, pongal, or khichdi for wholesome meals",
+      "Cook into porridge for a light and nutritious breakfast",
+      "Blend into flour for dosas, rotis, or multigrain mixes"
+    ],
+    "alternative_names": [
+      "Samai Arisi"
+    ]
+  },
+  {
+    "name": "Ragi Flour",
+    "category": "Millets",
+    "subcategory": "Millet Flours",
+    "variants": [
+      {
+        "size": "2 LB",
+        "price": 4.25
+      }
+    ],
+    "description": "Nutraley Ragi Flour - A Wholesome Finger Millet Superfood (2lb). Add the power of ancient nutrition to your kitchen with Nutraley Ragi Flour, made from finely ground Finger Millet. Known as Ragi in Kannada and Kezhvaragu in Tamil, this naturally gluten-free flour is a powerhouse of calcium, iron, and dietary fiber. With its nutty flavor and rich nutrition, Ragi Flour is perfect for preparing traditional recipes or modern healthy meals.",
+    "key_features": [
+      "Nutrient-Dense: Excellent source of calcium, iron, and protein",
+      "Rich in Fiber: Supports digestion and keeps you fuller for longer",
+      "Gluten-Free: Ideal for gluten-sensitive and health-conscious diets",
+      "Versatile Usage: Can be used in both sweet and savory recipes"
+    ],
+    "ingredients": "100% Pure Ragi (Finger Millet) Flour",
+    "serving_ideas": [
+      "Prepare nutritious Ragi dosa, roti, or idiyappam for daily meals",
+      "Make wholesome Ragi porridge or kanji for a healthy breakfast",
+      "Use in baking cookies, pancakes, or muffins for a fiber-rich twist",
+      "Add to multigrain mixes for enhanced nutrition"
+    ],
+    "alternative_names": [
+      "Kezhvaragu"
+    ]
+  },
+  {
+    "name": "Sprouted Ragi Flour",
+    "category": "Millets",
+    "subcategory": "Millet Flours",
+    "variants": [
+      {
+        "size": "2 LB",
+        "price": 5.99
+      }
+    ],
+    "description": "Nutraley Sprouted Ragi Flour - A Nutritious Finger Millet Superfood (2lb). Unlock enhanced nutrition with Nutraley Sprouted Ragi Flour, made from carefully sprouted Finger Millet grains. Known as Ragi in Kannada and Kezhvaragu in Tamil, sprouting increases the bioavailability of nutrients, making this flour richer in calcium, iron, and fiber compared to regular ragi. With its nutty flavor and soft texture, it is the perfect choice for wholesome, family-friendly meals.",
+    "key_features": [
+      "Sprouted Goodness: Sprouting improves nutrient absorption and digestibility",
+      "Calcium & Iron Rich: Supports bone health and energy levels",
+      "High in Fiber: Helps with digestion and satiety",
+      "Gluten-Free: Ideal for gluten-sensitive and health-focused diets"
+    ],
+    "ingredients": "100% Pure Sprouted Ragi (Finger Millet) Flour",
+    "serving_ideas": [
+      "Make soft and nutritious Ragi dosas, idlis, or rotis",
+      "Prepare healthy Ragi malt/porridge for kids and adults",
+      "Use in pancakes, muffins, or cookies for a fiber-rich twist",
+      "Add to multigrain flour blends for extra nutrition"
+    ],
+    "alternative_names": [
+      "Kezhvaragu"
+    ]
+  },
+  {
+    "name": "Ragi Flour",
+    "category": "Millets",
+    "subcategory": "Millet Flours",
+    "variants": [
+      {
+        "size": "500g",
+        "price": 3.99
+      }
+    ],
+    "description": "Ragi Flour - A Wholesome Finger Millet Superfood (500g). Add a touch of ancient nutrition to your daily meals with Ragi Flour, made from finely ground Finger Millet. Known as Ragi in Kannada and Kezhvaragu in Tamil, this naturally gluten-free flour is a rich source of calcium, iron, and dietary fiber. Its nutty flavor and nutrient profile make it a perfect choice for both traditional dishes and modern healthy recipes.",
+    "key_features": [
+      "Rich in Calcium & Iron: Supports bone health and overall wellness",
+      "High in Fiber: Aids digestion and helps maintain satiety",
+      "Gluten-Free: Great for gluten-sensitive and health-conscious diets",
+      "Versatile Usage: Can be used in both sweet and savory recipes"
+    ],
+    "ingredients": "100% Pure Ragi (Finger Millet) Flour",
+    "serving_ideas": [
+      "Prepare traditional Ragi dosa, roti, or idiyappam",
+      "Make a wholesome Ragi porridge or kanji for breakfast",
+      "Use in baking for cookies, pancakes, or muffins with a healthy twist",
+      "Add to multigrain mixes for enhanced nutrition"
+    ],
+    "alternative_names": [
+      "Kezhvaragu"
+    ]
+  },
+  {
+    "name": "Millet Health Mix",
+    "category": "Millets",
+    "subcategory": "Millet Health Mixes",
+    "variants": [
+      {
+        "size": "500g",
+        "price": 6.5
+      }
+    ],
+    "description": "Nutraley Millet Health Mix - A Wholesome Multigrain Nutrition (500g). Fuel your day with the balanced goodness of Nutraley Millet Health Mix, a nutrient-rich blend of ancient millets and grains crafted for complete family wellness. Packed with protein, fiber, and essential vitamins, this health mix is a powerhouse of natural energy. Naturally gluten-free and free from preservatives, it is the perfect choice for a healthy lifestyle.",
+    "key_features": [
+      "Nutrient-Dense Blend: Rich in protein, fiber, iron, and calcium",
+      "Natural Energy Booster: Provides long-lasting energy for all ages",
+      "Gluten-Free & Wholesome: Safe for gluten-sensitive and health-conscious diets",
+      "Versatile & Easy to Use: Can be prepared sweet or savory"
+    ],
+    "ingredients": "Blend of Finger Millet (Ragi), Foxtail Millet, Little Millet, Barnyard Millet, Pearl Millet, Sorghum, Wheat, Green Gram, and Cardamom",
+    "serving_ideas": [
+      "Prepare as a warm porridge for breakfast or evening snack",
+      "Mix with milk or buttermilk for a nutritious drink",
+      "Sweeten with jaggery or honey for kids' favorite porridge",
+      "Use in dosa or pancake batter for a wholesome meal"
+    ],
+    "alternative_names": []
+  },
+  {
+    "name": "Millet Health Mix",
+    "category": "Millets",
+    "subcategory": "Millet Health Mixes",
+    "variants": [
+      {
+        "size": "200g",
+        "price": 6.5
+      }
+    ],
+    "description": "Millet Health Mix - A Nutritious Multi-Millet Blend (200g). Fuel your day with the wholesome goodness of Millet Health Mix, a nourishing blend of carefully selected millets and grains. Packed with essential nutrients, fiber, and plant-based protein, this health mix is a natural choice for maintaining energy, improving digestion, and supporting overall wellness. Easy to prepare and versatile, it is perfect for both kids and adults.",
+    "key_features": [
+      "Multi-Millet Blend: Combines the power of different millets for balanced nutrition",
+      "Rich in Nutrients: High in fiber, protein, calcium, and iron",
+      "Energy Booster: Provides long-lasting energy for an active lifestyle",
+      "Kid-Friendly & Adult-Friendly: A wholesome choice for all ages"
+    ],
+    "ingredients": "Blend of millets and grains (finger millet, foxtail millet, pearl millet, sorghum, barnyard millet, and others)",
+    "serving_ideas": [
+      "Prepare as a porridge with milk or water for a quick and filling breakfast",
+      "Mix with jaggery or honey for a naturally sweet and healthy drink",
+      "Use as a base for dosa or pancake batter for a nutritious twist",
+      "Add to smoothies for extra fiber and nutrition"
+    ],
+    "alternative_names": []
+  },
+  {
+    "name": "Instant Barnyard Millet Noodles",
+    "category": "Millets",
+    "subcategory": "Instant Millet Noodles",
+    "variants": [
+      {
+        "size": "175g",
+        "price": 4.25
+      }
+    ],
+    "description": "Instant Barnyard Millet Noodles - A Healthy & Wholesome (175g). Enjoy a quick, tasty, and nutritious meal with Instant Barnyard Millet Noodles, a wholesome twist to your everyday noodles. Made from nutrient-rich barnyard millet (Kuthiraivali), these noodles are naturally gluten-free, high in fiber, and lower in carbohydrates compared to regular noodles. Perfect for busy lifestyles, they bring you the goodness of millet in a convenient and delicious form.",
+    "key_features": [
+      "Millet-Based: Made with barnyard millet for added nutrition",
+      "Gluten-Free: Suitable for gluten-sensitive diets",
+      "High in Fiber: Supports digestion and long-lasting energy",
+      "Quick & Easy: Cooks in minutes for a healthy meal option"
+    ],
+    "ingredients": "Barnyard Millet, Wheat Flour, and seasonings",
+    "serving_ideas": [
+      "Toss with your favorite vegetables and sauces for a hearty stir-fry",
+      "Add eggs, paneer, or chicken for a protein-rich meal",
+      "Enjoy plain with seasoning for a light and satisfying snack",
+      "Pair with soups or curries for a wholesome dinner"
+    ],
+    "alternative_names": [
+      "Kuthiraivali Noodles"
+    ]
+  },
+  {
+    "name": "Instant Finger Millet Noodles",
+    "category": "Millets",
+    "subcategory": "Instant Millet Noodles",
+    "variants": [
+      {
+        "size": "175g",
+        "price": 4.25
+      }
+    ],
+    "description": "Instant Finger Millet Noodles - A Healthy & Wholesome Twist (175g). Enjoy the perfect balance of taste and health with Instant Finger Millet Noodles, made from nutrient-rich finger millet (Ragi). A wholesome alternative to regular noodles, these are naturally high in fiber, calcium, and iron, making them a smarter choice for quick and delicious meals. With their earthy flavor and soft texture, they are loved by kids and adults alike.",
+    "key_features": [
+      "Made with Finger Millet (Ragi): Rich in calcium, iron, and protein",
+      "High in Fiber: Supports digestion and helps you stay full longer",
+      "Tasty & Nutritious: Combines health with great flavor",
+      "Quick & Easy: Ready in minutes for busy lifestyles"
+    ],
+    "ingredients": "Finger Millet (Ragi), Wheat Flour, and seasonings",
+    "serving_ideas": [
+      "Cook with the included spice mix for a tasty, nourishing snack",
+      "Add vegetables and eggs for a wholesome meal",
+      "Toss with sauces and seasonings for a creative twist",
+      "Serve as an evening snack or light dinner for the whole family"
+    ],
+    "alternative_names": [
+      "Ragi Noodles"
+    ]
+  },
+  {
+    "name": "Instant Foxtail Millet Noodles",
+    "category": "Millets",
+    "subcategory": "Instant Millet Noodles",
+    "variants": [
+      {
+        "size": "175g",
+        "price": 4.25
+      }
+    ],
+    "description": "Instant Foxtail Millet Noodles - A Healthy Twist to Your Favorite Snack (175g). Enjoy the perfect balance of taste and health with Instant Foxtail Millet Noodles, a wholesome alternative to regular noodles. Made with nutrient-rich foxtail millet (Thinai), these noodles are high in fiber, naturally gluten-free, and free from maida. With their delicious flavor and quick cooking time, they are the ideal choice for guilt-free snacking or a light meal.",
+    "key_features": [
+      "Made with Foxtail Millet: Rich in fiber, protein, and minerals",
+      "No Maida: A healthier alternative to regular noodles",
+      "Quick & Easy: Ready in minutes - perfect for busy lifestyles",
+      "Tasty & Wholesome: Combines great taste with natural nutrition"
+    ],
+    "ingredients": "Foxtail Millet (Thinai), Wheat Flour, and seasonings",
+    "serving_ideas": [
+      "Cook with fresh veggies and spices for a healthy family meal",
+      "Toss with soy sauce or stir-fry for an Asian-inspired dish",
+      "Add boiled noodles to soups for a hearty twist",
+      "Enjoy plain with seasoning for a quick snack"
+    ],
+    "alternative_names": [
+      "Thinai Noodles"
+    ]
+  },
+  {
+    "name": "Instant Kodo Millet Noodles",
+    "category": "Millets",
+    "subcategory": "Instant Millet Noodles",
+    "variants": [
+      {
+        "size": "175g",
+        "price": 4.25
+      }
+    ],
+    "description": "Instant Kodo Millet Noodles - A Healthy & Tasty Meal (175g). Enjoy the perfect balance of health and taste with Instant Kodo Millet Noodles, made from nutrient-rich Kodo Millet. A wholesome alternative to regular noodles, these millet noodles are naturally gluten-free, high in fiber, and packed with essential minerals. Quick to cook and deliciously satisfying, they make a smart choice for both kids and adults.",
+    "key_features": [
+      "Made with Kodo Millet: Rich in fiber, protein, and antioxidants",
+      "Gluten-Free: Suitable for gluten-sensitive and health-conscious diets",
+      "Quick & Easy: Ready in minutes for a convenient meal",
+      "Wholesome Alternative: A healthier option compared to refined flour noodles"
+    ],
+    "ingredients": "Kodo Millet (Varagu), Wheat Flour, and seasonings",
+    "serving_ideas": [
+      "Toss with vegetables and spices for a nourishing dinner",
+      "Make a simple stir-fry with soy sauce, garlic, and spring onions",
+      "Add to soups or broths for a comforting, filling meal",
+      "Customize with your favorite toppings for kids and family meals"
+    ],
+    "alternative_names": [
+      "Varagu Noodles"
+    ]
+  },
+  {
+    "name": "Instant Little Millet Noodles",
+    "category": "Millets",
+    "subcategory": "Instant Millet Noodles",
+    "variants": [
+      {
+        "size": "175g",
+        "price": 4.25
+      }
+    ],
+    "description": "Instant Little Millet Noodles - A Healthy & Wholesome Twist (175g). Enjoy your favorite comfort food with a healthy twist! Instant Little Millet Noodles are made with the goodness of little millet, a nutrient-rich ancient grain known for its light texture and health benefits. Naturally gluten-free and high in fiber, these noodles are a tasty and guilt-free alternative to regular instant noodles. Perfect for quick meals without compromising on nutrition.",
+    "key_features": [
+      "Made with Little Millet: Rich in fiber, protein, and essential minerals",
+      "Wholesome & Light: Easy to digest and a smart choice for healthy eating",
+      "Quick & Tasty: Ready in minutes, perfect for busy lifestyles",
+      "No Maida: A healthier alternative to traditional noodles"
+    ],
+    "ingredients": "Little Millet (Samai), Wheat Flour, and seasonings",
+    "serving_ideas": [
+      "Cook with the included seasoning for a delicious instant meal",
+      "Add fresh vegetables and herbs for extra nutrition and flavor",
+      "Pair with stir-fried veggies or sauces for a wholesome dish",
+      "Great for kids and adults looking for a healthier snack option"
+    ],
+    "alternative_names": [
+      "Samai Noodles"
+    ]
+  },
+  {
+    "name": "Instant Multi Millet Noodles",
+    "category": "Millets",
+    "subcategory": "Instant Millet Noodles",
+    "variants": [
+      {
+        "size": "175g",
+        "price": 4.25
+      }
+    ],
+    "description": "Instant Multi Millet Noodles - A Nutritious Twist to Your Favorite Snack (175g). Enjoy the perfect balance of taste and health with Instant Multi Millet Noodles, made from a wholesome blend of nutrient-rich millets. A better alternative to regular noodles, this millet-based snack is packed with fiber, protein, and essential minerals - making it a guilt-free indulgence for both kids and adults. Ready in just minutes, it is the ideal choice for a quick, tasty, and nourishing meal.",
+    "key_features": [
+      "Made with Millets: Blend of Foxtail, Barnyard, Little, Kodo, and Pearl Millet",
+      "Healthier Choice: Rich in fiber and essential nutrients",
+      "No Maida: Free from refined flour for a wholesome bite",
+      "Quick & Easy: Ready in minutes for busy lifestyles"
+    ],
+    "ingredients": "Multi-Millet Blend (Foxtail, Barnyard, Little, Kodo, Pearl), Wheat Flour, and seasonings",
+    "serving_ideas": [
+      "Cook with the included masala for a delicious millet noodle meal",
+      "Add vegetables, eggs, or chicken for extra nutrition",
+      "Toss with sauces and herbs for a fusion twist",
+      "Perfect for a quick snack, lunchbox, or light dinner"
+    ],
+    "alternative_names": []
+  },
+  {
+    "name": "Instant Pearl Millet Noodles",
+    "category": "Millets",
+    "subcategory": "Instant Millet Noodles",
+    "variants": [
+      {
+        "size": "175g",
+        "price": 4.25
+      }
+    ],
+    "description": "Instant Pearl Millet Noodles - A Healthy & Tasty Millet Twist (175g). Enjoy the perfect blend of health and taste with Instant Pearl Millet Noodles, made from nutrient-rich pearl millet (Bajra). Naturally high in fiber, protein, and essential minerals, these noodles are a wholesome alternative to regular noodles. Quick to cook and deliciously satisfying, they are ideal for a nutritious meal any time of the day.",
+    "key_features": [
+      "Made with Pearl Millet: Rich in iron, protein, and fiber",
+      "Healthy Alternative: A better choice compared to refined flour noodles",
+      "Quick & Easy: Ready in just a few minutes for a convenient meal",
+      "Delicious Taste: Light, flavorful, and perfect for all ages"
+    ],
+    "ingredients": "Pearl Millet (Bajra), Wheat Flour, and seasonings",
+    "serving_ideas": [
+      "Prepare as classic stir-fried noodles with vegetables",
+      "Add a dash of spices for a tasty millet-based snack",
+      "Cook with broth and veggies for a hearty noodle soup",
+      "Pair with your favorite sauces for a fusion twist"
+    ],
+    "alternative_names": [
+      "Bajra Noodles"
+    ]
+  },
+  {
+    "name": "Chia Seeds & Little Millet Cookies",
+    "category": "Millets",
+    "subcategory": "Millet Cookies",
+    "variants": [
+      {
+        "size": "100g",
+        "price": 3.99
+      }
+    ],
+    "description": "Chia Seeds & Little Millet Cookies - A Healthy & Wholesome Snack (100g). Enjoy the perfect blend of taste and nutrition with Chia Seeds & Little Millet Cookies, a guilt-free treat made from ancient grains and superfoods. Packed with fiber, protein, and essential nutrients, these cookies are a healthier alternative to regular snacks, giving you sustained energy with every bite. Crisp, light, and naturally wholesome, they are perfect for your everyday snack time.",
+    "key_features": [
+      "Wholesome Ingredients: Made with nutrient-rich little millet and chia seeds",
+      "High in Fiber & Protein: Supports digestion and keeps you fuller for longer",
+      "Guilt-Free Snacking: A healthier alternative to conventional cookies",
+      "No Artificial Additives: Natural, clean, and wholesome"
+    ],
+    "ingredients": "Little Millet, Chia Seeds, Wheat Flour, and natural sweeteners",
+    "serving_ideas": [
+      "Enjoy with your morning or evening tea/coffee",
+      "A healthy snack for office, school, or on-the-go",
+      "Pair with warm milk for a nutritious treat",
+      "Great as a post-workout or travel-friendly energy bite"
+    ],
+    "alternative_names": []
+  },
+  {
+    "name": "Coconut & Foxtail Millet Cookies",
+    "category": "Millets",
+    "subcategory": "Millet Cookies",
+    "variants": [
+      {
+        "size": "100g",
+        "price": 3.99
+      }
+    ],
+    "description": "Coconut & Foxtail Millet Cookies - A Crunchy, Wholesome Delight (100g). Enjoy the perfect blend of taste and health with Coconut & Foxtail Millet Cookies, a crunchy treat made from nutrient-rich foxtail millet and the natural sweetness of coconut. These cookies are free from maida and packed with the goodness of ancient grains, making them a guilt-free snack for all ages.",
+    "key_features": [
+      "Healthy Ingredients: Made with foxtail millet and real coconut",
+      "Rich in Fiber & Protein: Supports digestion and keeps you energized",
+      "No Maida, No Preservatives: A wholesome alternative to regular cookies",
+      "Crispy & Flavorful: Perfect balance of crunch and natural sweetness"
+    ],
+    "ingredients": "Foxtail Millet, Coconut, Wheat Flour, and natural sweeteners",
+    "serving_ideas": [
+      "Enjoy as a healthy tea-time or coffee-time snack",
+      "Pack in lunch boxes for a nutritious on-the-go treat",
+      "Pair with milk for a delightful evening bite",
+      "A guilt-free option for satisfying sweet cravings"
+    ],
+    "alternative_names": []
+  },
+  {
+    "name": "Millet Bytes - Choco Fills",
+    "category": "Millets",
+    "subcategory": "Millet Bytes",
+    "variants": [
+      {
+        "size": "250g",
+        "price": 6.0
+      }
+    ],
+    "description": "Millet Bytes - Choco Fills (250g). Indulge in a guilt-free treat with Millet Bytes Choco Fills, a perfect fusion of health and taste. Made with wholesome millets and filled with rich, creamy chocolate, this crunchy snack is a smart alternative to regular sugary bites. Whether as a quick snack, a kids' tiffin surprise, or an evening energy booster, Choco Fills bring both nutrition and delight in every bite.",
+    "key_features": [
+      "Made with Millets: A healthier base rich in fiber and nutrients",
+      "Delicious Chocolate Filling: Smooth, creamy, and indulgent",
+      "Wholesome Snacking: Great for kids, teens, and adults",
+      "Crunchy & Satisfying: A perfect balance of taste and nutrition"
+    ],
+    "ingredients": "Multi-Millet Blend, Chocolate Filling, and natural ingredients",
+    "serving_ideas": [
+      "Enjoy as a quick anytime snack",
+      "Pack in lunchboxes for a tasty and healthy treat",
+      "Pair with warm milk for a crunchy cereal-style breakfast",
+      "Serve as a light dessert or tea-time munch"
+    ],
+    "alternative_names": []
+  },
+  {
+    "name": "Millet Bytes - Strawberry Fills",
+    "category": "Millets",
+    "subcategory": "Millet Bytes",
+    "variants": [
+      {
+        "size": "250g",
+        "price": 6.0
+      }
+    ],
+    "description": "Millet Bytes - Strawberry Fills (250g). Enjoy a deliciously healthy twist with Millet Bytes Strawberry Fills, a crunchy millet-based snack with a delightful strawberry-filled center. Made with the goodness of wholesome millets and infused with fruity sweetness, this guilt-free treat is perfect for kids and adults alike. Light, tasty, and nourishing, it is the ideal anytime snack for your modern lifestyle.",
+    "key_features": [
+      "Wholesome Crunch: Made with nutrient-rich millets",
+      "Delicious Filling: Sweet and tangy strawberry center for a fruity bite",
+      "Healthy Snacking: A smarter alternative to junk food",
+      "Perfect for All Ages: Great for kids, tiffin, travel, or quick munching"
+    ],
+    "ingredients": "Multi-Millet Blend, Strawberry Filling, and natural ingredients",
+    "serving_ideas": [
+      "Enjoy as a crunchy mid-day snack",
+      "Add to lunchboxes for a tasty, wholesome treat",
+      "Pair with tea, coffee, or milk for a delightful combo",
+      "Serve as a light dessert or quick energy bite"
+    ],
+    "alternative_names": []
+  },
+  {
+    "name": "Millet Bytes - Vanilla Fills",
+    "category": "Millets",
+    "subcategory": "Millet Bytes",
+    "variants": [
+      {
+        "size": "250g",
+        "price": 6.0
+      }
+    ],
+    "description": "Millet Bytes - Vanilla Fills (250g). Enjoy a delightful fusion of health and taste with Millet Bytes Vanilla Fills, a crunchy millet-based snack with a smooth and creamy vanilla center. Made from wholesome millets, this snack is a smarter alternative to junk food - light, crunchy, and irresistibly tasty. Perfect for kids and adults alike, it is a guilt-free treat for any time of the day.",
+    "key_features": [
+      "Wholesome Goodness: Made with nutrient-rich millets",
+      "Delicious Flavor: Crunchy bites with a creamy vanilla filling",
+      "Anytime Snack: Great for school tiffins, tea-time, or on-the-go munching",
+      "Better Choice: Tasty yet healthier alternative to regular snacks"
+    ],
+    "ingredients": "Multi-Millet Blend, Vanilla Filling, and natural ingredients",
+    "serving_ideas": [
+      "Enjoy as a crunchy snack straight from the pack",
+      "Add to breakfast bowls or smoothies for a fun twist",
+      "Use as a topping for ice cream or desserts",
+      "Pack in lunch boxes for a wholesome treat"
+    ],
+    "alternative_names": []
+  },
+  {
+    "name": "Raw Cane Jaggery",
+    "category": "Natural Sweeteners",
+    "subcategory": null,
+    "variants": [
+      {
+        "size": "2 LB",
+        "price": 3.15
+      }
+    ],
+    "description": "Nutraley Raw Cane Jaggery - A Natural Sweetener for Healthy Living (2lb). Enjoy the traditional sweetness of Nutraley Raw Cane Jaggery, a wholesome and unrefined natural sweetener made from pure sugarcane juice. Unlike refined sugar, jaggery retains essential minerals like iron, calcium, and magnesium, making it a healthier alternative for your everyday recipes. With its rich caramel-like flavor and natural energy-boosting properties, Raw Cane Jaggery is a perfect blend of taste and nutrition.",
+    "key_features": [
+      "100% Natural: Made from pure sugarcane juice, free from chemicals",
+      "Nutrient-Rich: Contains iron, calcium, magnesium, and antioxidants",
+      "Healthy Sweetener: A natural alternative to refined sugar",
+      "Wholesome Taste: Adds a rich, earthy sweetness to recipes"
+    ],
+    "ingredients": "100% Pure Raw Cane Jaggery",
+    "serving_ideas": [
+      "Use as a natural sweetener in coffee, tea, or herbal drinks",
+      "Add to Indian sweets like chikki, payasam, or laddus",
+      "Blend into porridges or cereals for a healthy start to the day",
+      "Use in baking, sauces, or desserts for a unique caramel flavor"
+    ],
+    "alternative_names": []
+  },
+  {
+    "name": "Palmyra Palm Jaggery",
+    "category": "Natural Sweeteners",
+    "subcategory": null,
+    "variants": [
+      {
+        "size": "1.1 LB",
+        "price": 5.99
+      }
+    ],
+    "description": "Nutraley Palmyra Palm Jaggery - A Natural Sweetener with Traditional Goodness (1.1lb). Discover the pure, earthy sweetness of Nutraley Palmyra Palm Jaggery, a natural sweetener made from the nectar of palmyra palm trees. Known as Pana Vellam in Tamil, this unrefined jaggery is rich in minerals, antioxidants, and nutrients, making it a healthier alternative to refined sugar. With its deep caramel flavor and authentic taste, Palmyra Palm Jaggery brings both tradition and nutrition to your kitchen.",
+    "key_features": [
+      "100% Natural: Made from pure palmyra palm nectar, free from chemicals",
+      "Rich in Nutrients: Source of iron, calcium, magnesium, and antioxidants",
+      "Healthy Sweetener: Natural alternative to refined white sugar",
+      "Traditional Taste: Deep, earthy sweetness with a hint of caramel"
+    ],
+    "ingredients": "100% Pure Palmyra Palm Jaggery",
+    "serving_ideas": [
+      "Use as a natural sweetener in coffee, tea, or milk",
+      "Add to traditional Indian sweets, payasam, and desserts",
+      "Mix into porridges or health drinks for an energy boost",
+      "Use in baking and cooking as a wholesome sugar substitute"
+    ],
+    "alternative_names": [
+      "Pana Vellam"
+    ]
+  },
+  {
+    "name": "Urad Dal",
+    "category": "Dals",
+    "subcategory": null,
+    "variants": [
+      {
+        "size": "2.2 LB",
+        "price": 4.21
+      }
+    ],
+    "description": "Urad Dhall - A Protein-Rich Whole Lentils (2.2lb). Enhance your meals with Urad Dhall, a staple legume prized for its high protein content and rich, earthy flavor. Naturally gluten-free and packed with essential nutrients, Urad Dhall is perfect for traditional Indian cooking, from dals to batters for idli and dosa. Its creamy texture when cooked makes it versatile and ideal for everyday meals.",
+    "key_features": [
+      "High Protein & Fiber: Supports muscle health and digestion",
+      "Gluten-Free: Suitable for health-conscious and gluten-sensitive diets",
+      "Versatile Usage: Ideal for dals, soups, stews, and batter preparation"
+    ],
+    "ingredients": "100% Whole Urad Dhall",
+    "serving_ideas": [
+      "Cook as a traditional dal with spices and tempering for a hearty meal",
+      "Soak and grind for idli and dosa batters",
+      "Add to soups and stews for extra protein and texture",
+      "Mix into salads or khichdi for a nutritious boost"
+    ],
+    "alternative_names": []
+  },
+  {
+    "name": "Toor Dal",
+    "category": "Dals",
+    "subcategory": null,
+    "variants": [
+      {
+        "size": "2.2 LB",
+        "price": 4.13
+      }
+    ],
+    "description": "Toor Dhall - A Nutritious & Protein-Rich Lentils (2.2lb). Enjoy the wholesome goodness of Toor Dhall, also known as pigeon peas, a staple in Indian kitchens. Naturally high in protein and dietary fiber, this lentil is perfect for preparing nutritious meals while supporting digestion and overall health. Its mild flavor and quick-cooking nature make it an essential ingredient for everyday cooking.",
+    "key_features": [
+      "High Protein: Supports muscle health and provides sustained energy",
+      "Rich in Fiber: Promotes healthy digestion and satiety",
+      "Versatile Use: Ideal for dals, soups, stews, and curries"
+    ],
+    "ingredients": "100% Pure Toor Dhall",
+    "serving_ideas": [
+      "Cook traditional dal tadka or sambar for authentic flavors",
+      "Use in soups, khichdi, or curries for a nutritious meal",
+      "Pair with rice or rotis for wholesome, everyday dishes",
+      "Blend into dals with spices for creamy, flavorful consistency"
+    ],
+    "alternative_names": [
+      "Pigeon Peas"
+    ]
+  },
+  {
+    "name": "Moong Dal",
+    "category": "Dals",
+    "subcategory": null,
+    "variants": [
+      {
+        "size": "2.2 LB",
+        "price": 3.75
+      }
+    ],
+    "description": "Moong Dal - A Nutritious & Protein-Rich Lentils (2.2lb). Enjoy the wholesome goodness of Moong Dal, a versatile and protein-packed legume widely used in Indian cuisine. Naturally easy to digest and rich in essential nutrients, Moong Dal is perfect for creating healthy, hearty meals for the whole family. Its mild flavor and quick-cooking nature make it an everyday pantry staple.",
+    "key_features": [
+      "High Protein: Excellent source of plant-based protein",
+      "Digestive Friendly: Light and easy to digest, suitable for all ages",
+      "Nutrient-Rich: Contains fiber, vitamins, and essential minerals",
+      "Versatile Usage: Ideal for soups, dals, khichdi, and salads"
+    ],
+    "ingredients": "100% Pure Moong Dal",
+    "serving_ideas": [
+      "Cook a classic Moong Dal curry or dal tadka for everyday meals",
+      "Prepare khichdi for a comforting and nutritious dish",
+      "Add to soups, salads, or sprouts for added protein and fiber",
+      "Blend into batters or fritters for a healthy snack option"
+    ],
+    "alternative_names": []
+  },
+  {
+    "name": "Chana Dal",
+    "category": "Dals",
+    "subcategory": null,
+    "variants": [
+      {
+        "size": "2.2 LB",
+        "price": 3.74
+      }
+    ],
+    "description": "Wholesome Goodness in Every Bite! Made from the finest high-quality split chickpeas, our Channa Dal brings a rich, nutty flavor and firm texture to your kitchen. Packed with protein, fiber, and essential nutrients, it is not just food, it is nourishment for your family, straight from nature's heart. Whether you are making a warm, comforting soup, a flavorful curry, or a cherished traditional dish, every meal becomes a moment of love and care.",
+    "key_features": [
+      "High Protein & Fiber: Supports muscle health and digestion",
+      "Rich Nutty Flavor: Adds authentic taste to traditional dishes",
+      "Versatile Usage: Perfect for soups, curries, and traditional meals"
+    ],
+    "ingredients": "100% Pure Channa Dal (Split Chickpeas) - No additives, no preservatives, just natural goodness!",
+    "serving_ideas": [
+      "Cook as a traditional dal with spices for authentic flavors",
+      "Use in soups and curries for a hearty, nutritious meal",
+      "Make chana dal fry or tadka for a protein-rich side dish",
+      "Blend into batters for pakoras or fritters"
+    ],
+    "alternative_names": [
+      "Split Chickpeas"
+    ]
+  }
+]
